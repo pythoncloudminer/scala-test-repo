@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="false" />
+    <profile name="sbt 1" modules="hello-world,template_4103" />
+  </component>
+</project>

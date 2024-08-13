@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbt-idea, Some(40679d0f-8db5-4dc9-9c3f-6e9ac1d258e6), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: sbt-idea[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: sbt-idea[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: sbt-idea (similar: streams)[0m
+[0m[[0m[31merror[0m] [0m[0msbt-idea[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
